@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hey, I'm Phej 👋
 
-<!--
-**phejvillanueva/phejvillanueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Builder · Automation · Data · Creative Technology**
 
-Here are some ideas to get you started:
+I build practical tools and experiments at the intersection of **AI, automation, data, and digital media**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring:
+
+* 🤖 AI agents and generative AI
+* ⚙️ Automation and API integrations
+* 📊 Data processing and analytics
+* 🎬 AI-assisted video production
+* 🌐 Web applications
+
+## 🚀 Featured Projects
+
+### 🧠 AI YouTube Automation
+
+Tools and workflows for turning long-form scripts into visual assets using generative AI.
+
+**Python · Gemini API · Automation**
+
+### 🎬 AI Video Production
+
+Experiments combining generative video, AI voice, automation, and traditional editing workflows for digital advertising and content creation.
+
+## 🛠️ Tools & Technologies
+
+**AI:** Generative AI · AI Agents · LLMs · Prompt Engineering
+
+**Development:** Python · JavaScript · TypeScript · React · Next.js · REST APIs
+
+**Data:** Excel · Power BI · CSV · Data Processing · Automation
+
+**Creative:** CapCut · Premiere Pro · ElevenLabs · HeyGen · Generative Video
+
+## 📌 What I'm Working On
+
+Building small, useful software and experimenting with ways AI can automate creative and data-heavy workflows.
+
+More projects coming soon.
